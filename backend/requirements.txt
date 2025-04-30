@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+transformers
+torch
+sentence-transformers
+motor
+python-dotenv
